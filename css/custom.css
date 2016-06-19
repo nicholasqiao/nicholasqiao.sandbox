@@ -17,3 +17,20 @@ p {
 	font-family: "MS PGothic";
 	src: url(../fonts/msgothic.ttc);
 }
+
+.orange {
+	color: rgb(255,102,0) !important;
+}
+
+#two {
+	font-size: 30px;
+}
+
+#three {
+	font-size: 35px;
+}
+
+a {
+	color: rgb(255,102,0);
+	text-decoration: none;
+}
