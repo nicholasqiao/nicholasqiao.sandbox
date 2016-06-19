@@ -1,7 +1,7 @@
 body {
 	background: url(../images/escheresque_ste.png);
 	color: white;
-	font-family: "MS PGothic"
+	font-family: "asdf";
 }
 
 #title {
@@ -14,10 +14,9 @@ p {
 }
 
 @font-face {
-	font-family: "MS PGothic";
-	src: url(../fonts/msgothic.ttc);
+	font-family: "asdf";
+	src: url(../fonts/ms_pgothic.ttf);
 }
-
 .orange {
 	color: rgb(255,102,0) !important;
 }
